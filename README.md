@@ -15,10 +15,10 @@ I’m starting with basics and slowly moving to advanced topics, while solving p
 
 
 ## How I’m Tracking Progress
-- 📝 Learn 1 topic per day (sometimes more if I have time)  
-- 💻 Solve 3–5 problems related to that topic  
-- 🔄 Revise previous topics before starting new ones  
-- 📤 Push everything to GitHub at the end of the day
+-  Learn 1 topic per day (sometimes more if I have time)  
+-  Solve 3–5 problems related to that topic  
+-  Revise previous topics before starting new ones  
+-  Push everything to GitHub at the end of the day
 
 
 ## Tools I’m Using
