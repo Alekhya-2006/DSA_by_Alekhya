@@ -10,8 +10,8 @@ I’m starting with basics and slowly moving to advanced topics, while solving p
 
 **Day 1** – Variables, Data Types, Operators (HackerRank practice)  
 **Day 2** – Input/Output, Conditionals, Loops  
-**Day 3** – Arrays & Strings  
-**Day 4 onwards** – Functions, Recursion, Searching, Sorting, OOP, Advanced DSA
+**Day 3** –  Patterns
+**Day 4 onwards** – Functions, Arrays, Strings Recursion, Searching, Sorting, OOP, Advanced DSA
 
 
 ## How I’m Tracking Progress
