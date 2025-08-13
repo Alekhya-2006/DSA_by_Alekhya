@@ -10,7 +10,7 @@ I’m starting with basics and slowly moving to advanced topics, while solving p
 
 **Day 1** – Variables, Data Types, Operators (HackerRank practice)  
 **Day 2** – Input/Output, Conditionals, Loops  
-**Day 3** –  Patterns
+**Day 3** –  Patterns  
 **Day 4 onwards** – Functions, Arrays, Strings Recursion, Searching, Sorting, OOP, Advanced DSA
 
 
